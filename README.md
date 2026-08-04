@@ -1,4 +1,4 @@
-# Hi there, I'm Raji Al-Ameen 👋 (`cyph3r-01`)
+# Hi there, I'm Raji Al-Ameen 👋 (`cypher')
 
 I am an aspiring Computer Science student and a multidisciplinary developer focused on the intersection of **Cybersecurity**, **Artificial Intelligence**, and **Advanced Web Development**. I love building sleek, interactive applications while keeping a strict eye on secure coding practices and data protection.
 
